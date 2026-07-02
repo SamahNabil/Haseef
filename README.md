@@ -12,8 +12,8 @@ Haseef is a smart Flutter application designed to help users make more conscious
 ## 🛠️ Built With
 - Flutter
 - Dart
-- Firebase (if used)
-- REST API (if used)
+- Firebase 
+- REST API 
 
 ## ⚙️ Getting Started
 
